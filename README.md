@@ -20,6 +20,9 @@ Hi, I’m **Janis Adhikari** – an aspiring DevOps Engineer on a mission to lea
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/janisadhi)  
 
 ---
-
 Let’s learn to automate all the things! 
-![logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0zaFmPMOVA_FQqJ4t5whMvF9GYWEYAEh38Ab6icmtTvFsAn4IYXWUt_pLoFOY7g2RRGOzg3fu4EYGg99x-Xb5rMchj_4kDWs2suvvXwc6Xs_0p1yDwwbX8zO5s5B-Uhf6N-OrJBfbDqjQOnTTU1ofpZDe9NXn96BVkXO8gF2YLe2aYRkhuNIEPGLroFPJ/s500/Untitled_design-removebg-preview.png)
+
+---
+![logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2pB79ZaEwDoyeOowcq47W0JjBESyM4yjLABg2vLPMuEbc0hE8GLTvynhVGcggbAQ9NbkWo-tHjpHPDx1HXXurQU4GU6-IxJJc47MGMib7qlFYeokK8eRzFOYG2OROndx_qaCiPGfzMzqY35zS0WkV9H3r43IFHIMX26QjLImTBavpX_WNP0AtPCRpeQM_/s500/Untitled_design-removebg-preview%20(1).png)
+
+---
