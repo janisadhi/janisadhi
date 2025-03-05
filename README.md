@@ -37,5 +37,5 @@
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/janisadhikari)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/janisadhi)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=for-the-badge&logo=google-chrome)](https://janis.me)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=for-the-badge&logo=google-chrome)](https://janis.com.np)  
 
