@@ -27,4 +27,4 @@
 
 ---
 
-DevOps Engineer specializing in cloud infrastructure, automation, and CI/CD pipelines. Experienced in provisioning scalable environments with AWS, Kubernetes, Terraform, and Docker, with a strong focus on system reliability and continuous delivery. Feel free to reach out via [janisadhikari@gmail.com](mailto:janisadhikari@gmail.com).
+DevOps Engineer specializing in cloud infrastructure, automation, and CI/CD pipelines. Experienced in provisioning scalable environments with AWS, Kubernetes, Terraform, and Docker, with a strong focus on system reliability and continuous delivery. Feel free to reach out via [janisadhikari@gmail.com](mailto:link@janis.com.np).
